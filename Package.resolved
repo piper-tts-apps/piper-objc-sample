@@ -3,7 +3,7 @@
     {
       "identity" : "espeak-ng-spm",
       "kind" : "remoteSourceControl",
-      "location" : "https://github.com/IhorShevchuk/espeak-ng-spm.git",
+      "location" : "https://github.com/piper-tts-apps/espeak-ng-spm.git",
       "state" : {
         "revision" : "dda87cd7efcc832db857c78c7ae68839ba9bb43e",
         "version" : "2025.10.11"
