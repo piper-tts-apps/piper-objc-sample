@@ -11,7 +11,7 @@ let package = Package(
     products: [
     ],
     dependencies: [
-        .package(url: "https://github.com/IhorShevchuk/piper-objc",
+        .package(url: "https://github.com/piper-tts-apps/piper-objc",
                  from: "0.2.1")
     ],
     targets: [
